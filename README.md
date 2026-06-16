@@ -147,11 +147,4 @@ void loop() {
   }
 }
 
-6. Industry Applications & Scalability
-The simulated perimeter logic is highly scalable and directly matches several industrial market solutions:
 
-Commercial Security Frameworks: Can be scaled up into multi-node hardware sensor arrays to secure facilities, linking back via wireless protocols (like ESP32 Wi-Fi or LoRaWAN) to trigger central automated monitoring stations.
-
-Smart Lighting Infrastructure: The logic can be inverted to act as an energy-conservation tool in corporate offices, automatically switching overhead lighting relays off during periods of zero human movement to minimize corporate energy footprints.
-
-Industrial Machine Safeguards: Can be positioned near active high-voltage automated manufacturing lines to instantly isolate or emergency-stop heavy equipment if human operators accidentally step into hazardous operational zones.
